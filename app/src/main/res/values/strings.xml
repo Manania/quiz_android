@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="app_version">1.3.3</string>
+
+    <string name="mais_info">Sobre o Aplicativo</string>
+    <string name="set_seed">Mudar seed</string>
+    <string name="resposta">resposta</string>
+
+    <string name="title_config_activity">Configurações</string>
+    <string name="label_iniciar_quiz">Iniciar Quiz</string>
+    <string name="label_id_jogador">Nome</string>
+    <string name="hint_digitar_id">Digite seu nome…</string>
+    <string name="label_sair">Sair</string>s
+
+    <string name="label_responder">Responder</string>
+    <string name="seed_display_name">seed</string>
+
+    <string name="placar_voltar_menu_principal">Voltar ao menu principal</string>
+    <string name="placar_tentar_novamente">Responder novamente</string>
+</resources>
